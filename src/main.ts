@@ -12,6 +12,5 @@ app.use(createPinia())
 app.use(router)
 
 console.log('test');
-console.log('test111');
 
 app.mount('#app')
